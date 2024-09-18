@@ -52,3 +52,6 @@ Acesso a prioridades de objetos
 
 # Estrutura de Repetição 
 While
+
+# Condicionais
+Swith
