@@ -36,3 +36,19 @@ Function
 # Operadores 
 
 Operadores de atribuição de valor
+Operador de contenção
+
+## Estrutura de dados:
+
+### Arrays:
+
+Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+Atributos e métodos
+Cração e manipulação de objetos
+Acesso a prioridades de objetos
+
+# Estrutura de Repetição 
+While
