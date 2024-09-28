@@ -55,3 +55,14 @@ While
 
 # Condicionais
 Swith
+
+## Módulos em Node.js:
+
+Importação de módulos(require, Common35)
+Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assincrona e promessas:
+
+Uso de funções assincronas(await/async)
+
+
