@@ -35,8 +35,9 @@ Function
 
 # Operadores 
 
-Operadores de atribuição de valor
-Operador de contenção
+Operadores de atribuição de valor -
+Operador de contenção +
+Operadores de comparação: __ !-  <_ >_ < >
 
 ## Estrutura de dados:
 
@@ -55,6 +56,7 @@ While
 
 # Condicionais
 Swith
+if/else
 
 ## Módulos em Node.js:
 
@@ -64,5 +66,7 @@ Biblioteca 'inquirer' para criar prompts interativos
 ## Programação assincrona e promessas:
 
 Uso de funções assincronas(await/async)
+
+
 
 
