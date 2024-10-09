@@ -63,6 +63,12 @@ if/else
 Importação de módulos(require, Common35)
 Biblioteca 'inquirer' para criar prompts interativos
 
+## JSON
+
+Javascript Object Nonative (.json)
+JSON.parse(): transforma de JKS
+JSON.stringfly(): Transforma de 25 para JSON
+
 ## Programação assincrona e promessas:
 
 Uso de funções assincronas(await/async)
